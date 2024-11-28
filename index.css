@@ -1,0 +1,19 @@
+h2{
+    color: darkgreen;
+  }
+  h1{
+    color: darkblue;
+    text-align: center;
+  }
+
+  /* span{
+    color: red;
+  } */
+
+.text-red{
+    color: red;
+}
+
+div{
+  text-align: center;
+}
